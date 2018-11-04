@@ -88,6 +88,7 @@ def adding_matz
     :languages => ["LISP", "C"]}
     
     programmer_hash
+    # by retyping this you are implementing the new hash that you just created 
 end
 
 adding_matz
