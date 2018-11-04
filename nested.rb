@@ -116,6 +116,7 @@ def changing_alan
     # this is the new variable that you would like added in place of known_for
      
      programmer_hash[:alan_kay][:known_for] = "GUI"
+    # by typing in GUI it puts the info from alans_new_info and replaces it in the known_for key 
      programmer_hash
     # initiating the change 
 end
