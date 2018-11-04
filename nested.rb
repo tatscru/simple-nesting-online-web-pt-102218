@@ -59,6 +59,7 @@ def dennis_ritchies_language
         }
      }
      programmer_hash[:dennis_ritchie][:languages][0]
+     here you have to enter it as an array so that you can take out the "" otherwise you tried to hardcode. 
 end 
 
 def adding_matz
