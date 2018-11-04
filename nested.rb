@@ -89,7 +89,7 @@ def adding_matz
     languages: ["LISP", "C"]}
 end
 
-programmer_hash
+# programmer_hash
 
 def changing_alan
 	programmer_hash = 
