@@ -92,6 +92,7 @@ def adding_matz
 end
 
 adding_matz
+# now you have to call the method so it outputs the new hash
 
 def changing_alan
 	programmer_hash = 
