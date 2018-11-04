@@ -16,6 +16,7 @@ def hopper
         }
      }
 programmer_hash [:grace_hopper]
+# if you only want to output the first key then you have to call it.. otherwise it will output all else within the method 
 
 end
 
