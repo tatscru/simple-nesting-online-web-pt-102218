@@ -83,10 +83,13 @@ def adding_matz
           :known_for => "Unix",
           :languages => ["C"]
         }
-        :yukishiro => {}
      }
+     programmer_hash = {:grace_hopper, :alan_kay, :dennis_ritchie}
+     programmer_hash[:yukihiro_matsumoto]
     
 end
+
+puts programmer_hash
 
 def changing_alan
 	programmer_hash = 
