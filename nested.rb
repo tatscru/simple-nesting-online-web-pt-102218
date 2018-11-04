@@ -86,6 +86,7 @@ def adding_matz
      }
     programmer_hash[:yukihiro_matsumoto] = {:known_for => "Ruby",
     :languages => ["LISP", "C"]}
+    # here you are programatically changing the hash from above 
     
     programmer_hash
     # by retyping this you are implementing the new hash that you just created 
