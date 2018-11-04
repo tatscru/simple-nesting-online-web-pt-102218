@@ -143,6 +143,8 @@ def adding_to_dennis
      added_new_language = "Assembly"
      
      programmer_hash[:dennis_ritchie][:languages] << "Assembly" 
+  # Using the shovel will add to the end of the array    
+  
      programmer_hash
 
 end
